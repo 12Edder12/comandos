@@ -1,0 +1,10 @@
+###################################
+###### FORMULARIO ALUMNOS #########
+
+Cedula:
+Nombres:
+Apellidos:
+Correo:
+Direccion:
+Fecha de Nacimiento:
+
