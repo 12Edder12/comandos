@@ -1,6 +1,7 @@
 ###############################
 ####### Orden de Pago #########
 
-Nombre del Estudiante: Edder Naranjo 
+Nombre del Estudiante: Edder Naranjo
+Semestre: 4 software 
 Fecha: 25/10/2023
 Valor a pagar: 180
