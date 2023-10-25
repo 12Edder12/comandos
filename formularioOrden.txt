@@ -1,6 +1,6 @@
 ###############################
 ####### Orden de Pago #########
 
-Nombre del Estudiante: 
-Fecha:
-Valor a pagar:
+Nombre del Estudiante: Edder Naranjo 
+Fecha: 25/10/2023
+Valor a pagar: 250

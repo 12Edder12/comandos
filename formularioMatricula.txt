@@ -1,9 +1,9 @@
 ######################################
 ########## FORMULARIO MATRICULA ######
 
-Universidad
-Facultad
-Carrera
-Asignaturas
-Numero de creditos
+Universidad: Universidad Tecnica de Ambato
+Facultad: FISIE 
+Carrera: SOFTWARE
+Asignaturas: METODOLOGIAS AGILES
+Numero de creditos: 15
 
