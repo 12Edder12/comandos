@@ -3,4 +3,4 @@
 
 Nombre del Estudiante: Edder Naranjo 
 Fecha: 25/10/2023
-Valor a pagar: 250
+Valor a pagar: 180
