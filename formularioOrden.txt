@@ -1,0 +1,6 @@
+###############################
+####### Orden de Pago #########
+
+Nombre del Estudiante: 
+Fecha:
+Valor a pagar:
